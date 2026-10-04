@@ -2,18 +2,21 @@
 
 :root {
   font-family: "DM Sans", sans-serif;
-  color: #f4f3ff;
-  background: #0b0b16;
+  color: #172b40;
+  background: #f8fbff;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
 
-  --background: #0b0b16;
-  --card: #121222;
-  --text: #f4f3ff;
-  --muted: #a5a4b8;
-  --purple: #8b6bff;
-  --purple-light: #b4a0ff;
-  --border: rgba(181, 170, 255, 0.15);
+  --background: #f8fbff;
+  --card: #ffffff;
+  --text: #172b40;
+  --muted: #65788c;
+
+  --blue: #48a5ed;
+  --blue-dark: #2478bd;
+  --blue-pale: #edf7ff;
+  --blue-border: #d5eafb;
+  --border: #e2edf6;
 }
 
 * {
@@ -44,6 +47,6 @@ textarea {
 }
 
 ::selection {
-  color: white;
-  background: #7658e8;
+  color: #ffffff;
+  background: #2478bd;
 }

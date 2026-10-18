@@ -128,7 +128,7 @@ function App() {
           <a href="#skills">Skills</a>
           <a href="#projects">Projects</a>
           <a href="#contact">Contact</a>
-          <a className="nav-resume" href="/resume.pdf" download>
+          <a className="nav-resume" href="/VAIBHAVI CHAVAN_resume.pdf" download>
             Resume <span aria-hidden="true">↓</span>
           </a>
         </nav>

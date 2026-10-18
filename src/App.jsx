@@ -162,7 +162,7 @@ function App() {
               <a className="button button-primary" href="#projects">
                 View My Work <span aria-hidden="true">↗</span>
               </a>
-              <a className="button button-outline" href="/resume.pdf" download>
+              <a className="button button-outline" href="/VAIBHAVI CHAVAN_resume.pdf" download>
                 Download Resume <span aria-hidden="true">↓</span>
               </a>
             </div>
